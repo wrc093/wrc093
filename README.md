@@ -13,9 +13,9 @@ I build practical tools that make software development and AI-agent workflows sa
 
 ## What I'm working on
 
-- 🔭 **MCP compatibility tooling** — detecting schema drift before an integration breaks.
-- 🧩 **Coding-agent extensions** — making agent-produced changes easy to inspect and trust.
-- ⚙️ **Small, focused automation tools** — solving recurring developer workflows without unnecessary complexity.
+- 🔭 **Pi plugins** — building practical extensions for a more transparent coding-agent experience.
+- 🧩 **DSH plugins** — making MCP integrations safer with schema-drift detection.
+- ⚙️ **Coding-agent + Obsidian workflows** — designing a faster, more deliberate way to think and ship.
 
 ## Tech stack
 

@@ -39,7 +39,6 @@ I build **Pi** and **DSH** plugins, and design **Coding Agent + Obsidian** workf
 | --- | --- | --- | --- |
 | [**dsh-mcp-schema-drift**](https://github.com/wrc093/dsh-mcp-schema-drift) | Read-only MCP catalog snapshots and compatibility checks for DeepSeek Harness. | TypeScript · Node.js · MCP | [![npm monthly downloads](https://img.shields.io/npm/dm/dsh-mcp-schema-drift?label=monthly&color=CB3837)](https://www.npmjs.com/package/dsh-mcp-schema-drift) |
 | [**pi-file-diff**](https://github.com/wrc093/pi-file-diff) | A Pi Coding Agent extension with task-end file-change receipts and an interactive terminal diff viewer. | TypeScript · Node.js | [![npm monthly downloads](https://img.shields.io/npm/dm/pi-file-diff?label=monthly&color=CB3837)](https://www.npmjs.com/package/pi-file-diff) |
-| [**github-trending-tool**](https://github.com/wrc093/github-trending-tool) | Daily GitHub Trending collection and intelligent push notifications. | Python | — |
 
 <p align="center">
   <a href="https://www.npmjs.com/package/dsh-mcp-schema-drift"><img src="https://img.shields.io/npm/v/dsh-mcp-schema-drift?label=dsh-mcp-schema-drift&color=CB3837" alt="dsh-mcp-schema-drift on npm"></a>

@@ -46,10 +46,10 @@ I build practical tools that make software development and AI-agent workflows sa
 
 <div align="center">
   <a href="https://github.com/wrc093">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=wrc093&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="WRC's GitHub stats">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wrc093&theme=github_dark" alt="WRC's GitHub stats">
   </a>
   <a href="https://github.com/wrc093">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrc093&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wrc093&theme=github_dark" alt="Most used languages">
   </a>
 </div>
 

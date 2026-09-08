@@ -16,6 +16,7 @@ I build **Pi** and **DSH** plugins, and design **Coding Agent + Obsidian** workf
 - 🔭 **Pi plugins** — building practical extensions for a more transparent coding-agent experience.
 - 🧩 **DSH plugins** — making MCP integrations safer with schema-drift detection.
 - ⚙️ **Coding-agent + Obsidian workflows** — designing a faster, more deliberate way to think and ship.
+- 🌱 **Multi-agent collaboration & Skill workflows** — exploring a framework and integrated tools for higher-leverage personal work.
 
 ## Tech stack
 

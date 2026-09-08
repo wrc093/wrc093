@@ -9,7 +9,7 @@
 
 </div>
 
-I build practical tools that make software development and AI-agent workflows safer, clearer, and easier to operate. My current work lives at the intersection of **TypeScript**, **Node.js**, **MCP**, and developer experience.
+I build **Pi** and **DSH** plugins, and design **Coding Agent + Obsidian** workflows for a faster, more deliberate way to think and ship.
 
 ## What I'm working on
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm WRC 👋
+# Hi, I'm wrc093 👋
 
 ### Building dependable developer tools for the AI-agent era.
 
